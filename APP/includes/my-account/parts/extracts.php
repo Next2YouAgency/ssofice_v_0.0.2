@@ -1,1 +1,0 @@
-﻿Extrato de movimentação do sistema
