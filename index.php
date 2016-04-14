@@ -2,7 +2,6 @@
 	require_once 'APP/appCnf/config.php';
 	ob_start();
 	session_start();
-	
 	if(!empty($_SESSION['authUser'])){
 		header('Location: APP/index.php');
 	}
